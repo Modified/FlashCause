@@ -21,7 +21,7 @@ Pitch: crowd-fund with realtime pain sensor and vivid/visibility something...
 
 # Features! (MVP?)
 
-1. Shoot (pic) first, ask questions later.  (See getUserMedia, etc.)
+1. Shoot (pic) first, ask questions later.  (Nu, getUserMedia, etc.)
 2. Ask questions: put a price on it (because, PayPal ;o), blurb, copywrite it...
 3. Upload image to SaaS with unique URL.
 3. Tweet it!
