@@ -1,0 +1,25 @@
+{
+	"name":"flashcause",
+	"version":"0.0.1",
+	"description":"Coolest web app for flash-crowd-funding hacked at Battlehack 2014 Tel-Aviv! With kittens! And Node, Twitter, jQM and kittens! And PayPal API.",
+	"private":false,
+	"repository":{"type":"git","url":"https://github.com/Modified/FlashCause.git"},
+	"engines":{
+		"node":"0.10.x",
+		"npm":"1.3.x"
+	},
+	"main": "server.coffee",
+	"author": "Ilan Arad <ilan@decodecode.net>",
+	"license": "No",
+	"dependencies":{
+		"zappajs": "~0.4.22",
+		"zappajs-partials":"",
+		"coffee-script": "1.7.x",
+		"level":"0.18.x",
+		"stylus":""
+	},
+	"scripts":{
+		"start":"coffee server.coffee",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
